@@ -1,0 +1,9 @@
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Debug\DebugModeEditor.exe.config
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Debug\DebugModeEditor.exe
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Debug\DebugModeEditor.pdb
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\UTEncounterSelector.csprojResolveAssemblyReference.cache
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\uttest.Form1.resources
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\uttest.Properties.Resources.resources
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\UTEncounterSelector.csproj.GenerateResource.Cache
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\DebugModeEditor.exe
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\DebugModeEditor.pdb

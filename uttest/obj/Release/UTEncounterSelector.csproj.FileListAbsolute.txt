@@ -1,0 +1,8 @@
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Release\DebugModeEditor.exe.config
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Release\DebugModeEditor.exe
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Release\DebugModeEditor.pdb
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Release\uttest.Form1.resources
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Release\uttest.Properties.Resources.resources
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Release\UTEncounterSelector.csproj.GenerateResource.Cache
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Release\DebugModeEditor.exe
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Release\DebugModeEditor.pdb

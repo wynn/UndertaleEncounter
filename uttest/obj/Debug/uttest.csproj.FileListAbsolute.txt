@@ -1,0 +1,12 @@
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\bin\Debug\uttest.exe.config
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\obj\Debug\uttest.Properties.Resources.resources
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\obj\Debug\uttest.csproj.GenerateResource.Cache
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\bin\Debug\uttest.exe
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\bin\Debug\uttest.pdb
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\obj\Debug\uttest.exe
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\obj\Debug\uttest.pdb
+c:\users\wynn\documents\visual studio 2015\Projects\uttest\uttest\obj\Debug\uttest.Form1.resources
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Debug\uttest.exe.config
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\uttest.exe
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\obj\Debug\uttest.pdb
+C:\Users\Aria\Documents\Visual Studio 2015\Projects\uttest\uttest\bin\Debug\DebugModeEditor.exe.config

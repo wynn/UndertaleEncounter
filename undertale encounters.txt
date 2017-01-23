@@ -1,0 +1,111 @@
+1 	TestFroggit, TestFroggit, TestFroggit 	TestMonster and its cohorts draw near!
+2 	Dummy 	You encountered the Dummy.
+3 	Froggit 	Froggit attacks you!
+4 	Froggit 	Froggit hopped close!
+5 	Whimsun 	Whimsun approached meekly!
+6 	Froggit, Whimsun 	Froggit and Whimsun drew near!
+7 	Moldsmal 	Moldsmal blocked the way!
+8 	Moldsmal, Moldsmal, Moldsmal 	You tripped into a line of Moldsmals.
+9 	Froggit, Froggit 	A pair of Froggits hop towards you.
+10 	Moldsmal, Moldsmal 	Moldsmal and Moldsmal block the way.
+11 	Moldsmal, Migosp 	Migosp crawled up close!
+12 	Migosp, Vegetoid 	Vegetoid came out of the earth!
+13 	Loox 	Loox drew near!
+14 	Vegetoid, Loox 	Vegetoid and Loox attacked!
+15 	Loox, Vegetoid, Migosp 	Loox and co. decided to pick on you!
+16 	Vegetoid, Vegetoid 	A pair of Vegetoids came out of the ground!
+17 	Loox, Loox 	A pair of Loox decided to pick on you!
+18 	Vegetoid 	Vegetoid came out of the earth!
+19 	But nobody came.	But nobody came.
+20 	Napstablook 	Here comes Napstablook.
+21 	Loox 	Loox drew near!
+22 	Toriel 	Toriel blocks the way!
+23 	Doggo 	Doggo blocks the way!
+24 	Lesser Dog 	Lesser Dog appears.
+25 	Dogamy, Dogaressa 	Dogi assault you!
+26 	Greater Dog 	It's the Greater Dog.
+27 	Papyrus 	Papyrus blocks the way!
+28 	Gyftrot 	Gyftrot confronts you!
+30 	Snowdrake 	Snowdrake flutters forth!
+31 	Chilldrake, Chilldrake 	Chilldrakes flutter forth!
+32 	Icecap 	Icecap struts into view.
+33 	Icecap, Snowdrake 	Icecap and Snowdrake pose like bad guys.
+34 	Jerry 	Jerry clings to you!
+35 	Icecap, Jerry 	Icecap appears. Jerry came too.
+36 	Icecap, Jerry, Snowdrake 	Icecap and Snowdrake confront you, sighing. Jerry.
+40 	Aaron 	Aaron flexes in!
+41 	Temmie 	Special enemy Temmie appears here to defeat you!!
+42 	Moldsmal, Moldsmal 	You walk into Moldsmal.
+43 	Woshua 	Woshua shuffles up.
+44 	Shyren 	Shyren hides in the corner but somehow encounters you anyway.
+45 	Mad Dummy 	Mad Dummy blocks the way!
+46 	Aaron, Woshua 	You shouldn't read this.
+47 	Undyne 	
+48 	Mettaton 	Mettaton attacks!
+49 	RG 01, RG 02 	Royal Guard attacks!
+50 	Tsunderplane 	Tsunderplane gets in the way!&Not on purpose or anything.
+51 	Vulkin 	Vulkin strolls in.
+52 	Pyrope 	Pyrope bounds towards you!
+53 	Moldsmal, Moldsmal 	You walk into Moldsmal.
+54 	Woshua, Aaron 	Woshua and Aaron appear.
+55 	Moldbygg, Woshua 	Moldbygg and Woshua appear.
+56 	Muffet 	Muffet traps you!
+57 	Mettaton 	Mettaton attacks!
+58 	Undyne (Date) 	
+59 	Madjick 	Madjick pops out of its hat!
+60 	Knight Knight 	Knight Knight blocks the way!
+61 	Final Froggit 	Final Froggit was already there, waiting for you
+62 	Astigmatism 	Astigmatism drew near.
+63 	Whimsalot 	Whimsalot rushed in!
+64 	Whimsalot, Final Froggit 	Whimsalot and Final Froggit appeared.
+65 	Whimsalot, Astigmatism 	Whimsalot and Astigmatism appeared.
+66 	Final Froggit, Astigmatism 	Final Froggit and Astigmatism appeared.
+67 	Final Froggit, Astigmatism, Whimsalot 	What a nightmare!
+68 	Knight Knight, Madjick 	Mercenaries emerge from the shadows.
+69 	Bomb 	Defuse the bomb!
+70 	Bomb 	Defuse the dog!
+71 	Bomb 	Defuse the extremely agile glass of water!
+72 	Bomb 	Defuse the script!
+73 	Bomb 	Defuse the basketball!
+74 	Bomb 	Defuse the present!
+75 	Bomb 	Defuse the game!
+76 	RG04, RG03 	Royal Guard attacks!
+77 	Tsunderplane, Vulkin 	Tsunderplane attacks! Not because it's jealous Vulkin is paying attention to you!
+78 	Pyrope, Pyrope 	The rare and threatening Double Davis.
+79 	Vulkin, Vulkin 	A strange parade blocks the path.
+80 	Mettaton 	Mettaton attacks!
+81 	Mettaton EX 	Mettaton EX makes his premiere!
+82 	Lemon Bread 	Smells like sweet lemons.
+83 	Reaper Bird 	,
+84 	Amalgamate (Snowdrake's mom) 	It's so cold.
+85 	Memoryhead, Memoryhead, Memoryhead 	drew near!
+86 	Endogeny 	It's the Amalgamate.
+87 	Lost Soul (Undyne) 	The Lost Soul appeared.
+88 	Lost Soul, Lost Soul (Papyrus, Sans) 	The Lost Souls appeared.
+89 	Lost Soul (Alphys) 	The Lost Soul appeared.
+90 	Lost Soul, Lost Soul (Toriel, Asgore) 	The Lost Souls appeared.
+91 	Monster Kid 	In my way.
+92 	Undyne the Undying 	The heroine appears.
+93 	Glad Dummy 	Glad Dummy lets you go.
+94 	Mettaton NEO 	Mettaton NEO blocks the way!
+95 	Sans 	
+100 	Asgore (pre-battle) 	
+101 	Asgore	ASGORE attacks!
+120 	Final Froggit, Astigmatism 	That doesn't seem correct.
+121 	Final Froggit, Migospel 	Final Froggit stopped chasing Migospel around.
+122 	Parsnik 	Parsnik slithered out of the earth!
+123 	Moldessa, Moldessa 	You tripped over some Moldessas.
+124 	Moldessa, Moldessa, Moldessa 	A line of Moldessas block the path.
+125 	Final Froggit, Whimsalot 	Can you believe it?
+126 	Final Froggit 	Final Froggit hopped in...?
+127 	Whimsalot, Parsnik 	Whimsalot and Parsnik appeared.
+128 	Moldessa, Migospel 	Migospel flutters in, carrying Moldessa.
+129 	Parsnik, Migospel 	Migospel flutters in, carrying Parsnik.
+130 	Parsnik, Parsnik 	Parsniks hissed out of the earth!
+131 	Parsnik, Astigmatism 	Not only potatoes have eyes.
+132 	Astigmatism, Astigmatism 	Eyes appeared from the shadows.
+133 	Astigmatism, Migospel, Moldessa 	Looks like a real party.
+134 	Whimsalot, Parsnik, Moldessa 	Party from Hell.
+135 	Glyde 	Glyde swooped in!
+140 	So Sorry 	You're blocked in politely!
+255 	Asriel Dreemurr 	It's the end.
